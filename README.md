@@ -1,7 +1,16 @@
-﻿# Web-Scraping
-Applying Web Scraping Techniques On Ikea Website: https://www.ikea.com/sa/ar/cat/furniture-fu001/
+# Ikea Web Scraping
 
-### Built With:
+<!-- introduction -->
+## About The Project
 
-[![My Skills](https://skillicons.dev/icons?i=python&theme=light)](https://skillicons.dev)
-<img width="40" alt="logo" src="https://user-images.githubusercontent.com/98522684/200248160-e3e79aa5-863e-4616-a11e-823866901875.png">
+Doing data analysis on data collected from Ikea online store. The data was gathered using web scraping. The goal of the analysis is to compare 3 different categories and find if there is any correlation between them.
+
+<!-- technology -->
+## Built With
+
+* [![My Skills](https://skills.thijs.gg/icons?i=python)](https://skills.thijs.gg) <img width="40" alt="logo" src="https://user-images.githubusercontent.com/98522684/200248160-e3e79aa5-863e-4616-a11e-823866901875.png">
+
+## Dataset source
+https://www.ikea.com/sa/ar/
+
+
